@@ -2,7 +2,7 @@
 
 #### Q1. Which file contains all the drawing document-specific information, such as specifications for units, drafting standard, font selections, etc?
 
-- [ ] SOLIDWORKS drawing template
+- [x] SOLIDWORKS drawing template
 - [ ] SOLIDWORKS composer file
 - [ ] SOLIDWORKS part file
 - [ ] SOLIDWORKS sheet format
@@ -34,26 +34,26 @@
 
 - [ ] Quick Snaps
 - [ ] Rebuild
-- [ ] Repair Sketch
+- [x] Repair Sketch
 - [ ] Show Error
 
 #### Q6. Which choice is an example of a skected feature?
 
 - [ ] chamfer
 - [ ] extrusion
-- [ ] fillet
+- [x] fillet
 - [ ] shell
 
 #### Q7. You want to make two circles have the same center point within a SOLIDWORKS sketch. How can you do this?
 
 - [ ] Add a tangent relation between the circles
-- [ ] Add a concentric relation between the circles
+- [x] Add a concentric relation between the circles
 - [ ] Add a horizontal relation between the circles
 - [ ] Add an equal relation between the circles
 
 #### Q8. Which reference geometry is NOT available in SOLIDWORKS?
 
-- [ ] sphere
+- [x] sphere
 - [ ] plane
 - [ ] point
 - [ ] axis
@@ -61,7 +61,7 @@
 #### Q9. Specifying two lines to be perpendicular to each other would be an example of what?
 
 - [ ] feature
-- [ ] relation
+- [x] relation
 - [ ] extrude
 - [ ] dimension
 
@@ -69,19 +69,19 @@
 
 - [ ] Right-click the component you want to focus on and select Change Transparency
 - [ ] Right-click the component you want to focus on and select Hide
-- [ ] Right-click the component you want to focus on and select Isolate
+- [x] Right-click the component you want to focus on and select Isolate
 - [ ] Right-click the component you want to focus on and select Suppress
 
 #### Q11. What will Save As do on an existing saved part?
 
 - [ ] It will delete the original part and save the current part with a new name
-- [ ] It will keep the original part and save the current path with a new name
+- [x] It will keep the original part and save the current path with a new name
 - [ ] It will save both the original part and the new part in the current state
 - [ ] It will rename the original part
 
 #### Q12. You want to show a list of the raw materials, subassemblies, intermediate assemblies, subcomponents, and parts, and the quantities of each, needed to manufacture an end product. What would be useful to accomplish this?
 
-- [ ] bill of material
+- [x] bill of material
 - [ ] isometric view
 - [ ] exploded view
 - [ ] hole list
@@ -90,26 +90,26 @@
 
 - [ ] Freezing the features helps to show only the critical features of the model
 - [ ] Freezing the features helps to show the internal features of the model
-- [ ] Freezing the features helps to reduce the rebuild time and prevent unintentional changes to the model
+- [x] Freezing the features helps to reduce the rebuild time and prevent unintentional changes to the model
 - [ ] Freezing the features helps to show the external features of the model
 
 #### Q14. Which single features could you use to design a cube, a sphere, and a paperclip, respectively?
 
 - [ ] Revolved Boss/Base, Shell, and Sweep
 - [ ] Shell, Revolved Boss/Base, and Extruded Boss/Base
-- [ ] Extruded Boss/Base, Revolved Boss/Base, and Sweep
+- [x] Extruded Boss/Base, Revolved Boss/Base, and Sweep
 - [ ] Draft, Extruded Boss/Base, and Shell
 
 #### Q15. Which choice is NOT a standard mate within SOLIDWORKS?
 
 - [ ] parallel
 - [ ] coindicent
-- [ ] equal
+- [x] equal
 - [ ] concentric
 
 #### Q16. How would you temporarily remove a feature from a model?
 
-- [ ] Click the feature in the FeatureManager design tree or graphics area, then select Surpress
+- [x] Click the feature in the FeatureManager design tree or graphics area, then select Surpress
 - [ ] Drag the feature to the Suppression folder, located at the top of the FeatureManager design tree
 - [ ] You cannot remove features temporarily-you can only delete them completely
 - [ ] Drag the feature to the bottom of the FeatureManager design tree, then drag the Supression bar above it
@@ -119,13 +119,13 @@
 - [ ] Use Assembly Visualization
 - [ ] Use a bill of materials
 - [ ] Use isometric view
-- [ ] Use exploded view
+- [x] Use exploded view
 
 #### Q18. How would you fix a Lofted Boss/Base feature that appears twisted?
 
 - [ ] Drag the loft connectors to the correct position, or use guide curves
 - [ ] Reduce the spacing between the loft profiles, then scale the loft body as required
-- [ ] Loft shapes are driven entirely by the loft profiles, adjust the skecthes to remove any ambiguity in the loft path
+- [x] Loft shapes are driven entirely by the loft profiles, adjust the skecthes to remove any ambiguity in the loft path
 - [ ] Ensure that the Twist Along Path option is not selected
 
 #### Q19. When creating a sweep feature, you receive this error: "Cannot get to a point on the path to start with. For an open path, the path must intersect with the section plane." How can you fix this?
@@ -138,14 +138,14 @@
 #### Q20. With injection molding, one common manufacturing requirement or preference is applying a taper or angle to faces to help with part removal from the mold. Which feature can help you meet this requirement?
 
 - [ ] Loft
-- [ ] Draft
+- [x] Draft
 - [ ] Wrap
 - [ ] Sweep
 
 #### Q21. You want to simplify a very large and complex assembly to improve performance while working within it. What should you use?
 
 - [ ] DFMXpress
-- [ ] SpeedPak
+- [x] SpeedPak
 - [ ] a flexible subassembly
 - [ ] Design Checker
 
@@ -153,14 +153,14 @@
 
 - [ ] second angle projection
 - [ ] fourth angle projection
-- [ ] first angle projection
+- [x] first angle projection
 - [ ] third angle projection
 
 #### Q23. You have a single line within a sketch that you would like to split into three separate lines. How can you achieve this?
 
 - [ ] Use the Offset Entities tool
 - [ ] Use the Split Line tool
-- [ ] Use the Split Entities tool
+- [x] Use the Split Entities tool
 - [ ] Use the Split tool
 
 #### Q24. What controls the direction and magnitude of a spline curvature?
@@ -168,12 +168,12 @@
 - [ ] inflection point
 - [ ] control point
 - [ ] spline point
-- [ ] spline handle
+- [x] spline handle
 
 #### Q25. You want to build a new part within an assembly to ensure in-context relations and dimensions. You also want to save out this part file as its own unique file. After navigating to the Assembly ribbon tab, what do you do next?
 
 - [ ] Under Insert Component, select Part to create a new in-context part. Right-click the new part and select isolate
-- [ ] Select Insert Component to create a new in-context part. Right-click te new part and select Save Part (in External File)
+- [x] Select Insert Component to create a new in-context part. Right-click te new part and select Save Part (in External File)
 - [ ] Under Insert Components, select New Part to create a new in-context part. Right-click the new part and select Save Selection
 - [ ] Under Insert Components, select New Part to create a new in-context part. Right-click the new part and select Save Part (in External File)
 
@@ -182,14 +182,14 @@
 - [ ] Click View > Toolbars > CommandManager
 - [ ] Click View > Toolbars > FeatureManager
 - [ ] Click View > Toolbars > MotionManager
-- [ ] Click View > Toolbars > Task Pane
+- [x] Click View > Toolbars > Task Pane
 
 #### Q27. Representing a three-dimensional object by a number of two-dimensional views is generally called
 
 - [ ] isometric projection
 - [ ] oblique projection
 - [ ] object projection
-- [ ] orthographic projection
+- [x] orthographic projection
 
 #### Q28. How can you rename a feature?
 
@@ -203,11 +203,11 @@
 - [ ] It creates a fillet that is tanget to the direction of view
 - [ ] It creates a fillet that varies in size, depending on lcoal tangency
 - [ ] It creates a constant-size fillet around all selections
-- [ ] It extends the fillet to all faces that are tangent to the selected face
+- [x] It extends the fillet to all faces that are tangent to the selected face
 
 #### Q30. You notice that one of the subassemblies in your main assembly is rigid and does not have mobility it should. How can you resolve this issue?
 
-- [ ] Select the subassembly and then select **Make Subassembly Flexible** from the context menu
+- [x] Select the subassembly and then select **Make Subassembly Flexible** from the context menu
 - [ ] Select the subassembly and then select **Set Resolved from LightWeight** from the context menu
 - [ ] Select the subassembly and then select **Edit Assembly** from the context menu
 - [ ] Select the subassembly and then select **Make Independent** from the context menu
@@ -216,7 +216,7 @@
 
 - [ ] On the **Leaders** tab, select **Diameter**
 - [ ] On the **Other** tab, select **Diameter**
-- [ ] On the **Value** tab, and select **Diameter**
+- [x] On the **Value** tab, and select **Diameter**
 - [ ] On the **Value** tab, seect **Override Value**
 
 #### Q32. In the image below, which are the parents and children of the Vertical Boss Feature?
@@ -241,7 +241,7 @@
 
 ![solidworks image](images/solidworks_q34.png)
 
-- [ ] a hole table
+- [x] a hole table
 - [ ] a revision table
 - [ ] a tolerance table
 - [ ] a punch table
@@ -252,7 +252,7 @@
 
 - [ ] smart dimensioning
 - [ ] angular running dimensioning
-- [ ] ordinate dimensioning
+- [x] ordinate dimensioning
 - [ ] chain dimensioning
 
 #### Q36. In the image below, what types of hole are A1 and B1 respectively?
@@ -260,7 +260,7 @@
 ![solidworks image](images/solidworks_q36.png)
 
 - [ ] countersink and counterbore
-- [ ] counterbore and countersink
+- [x] counterbore and countersink
 - [ ] standard and threaded/tapped
 - [ ] threaded/tapped and standard
 
@@ -268,7 +268,7 @@
 
 ![solidworks image](images/solidworks_q37.png)
 
-- [ ] an open contour sketch
+- [x] an open contour sketch
 - [ ] a multi-contour or intersecting sketch
 - [ ] a triple contour sketch
 - [ ] a closed contour sketch
@@ -280,4 +280,4 @@
 - [ ] Yes, you can extrude it using the standard extrude boss option
 - [ ] Yes, you can extrude it using the Selected Contours option
 - [ ] No, the sketch is an open contour and this cannot be extruded
-- [ ] Yes, you can extrude it using the Thin Feature option
+- [x] Yes, you can extrude it using the Thin Feature option
